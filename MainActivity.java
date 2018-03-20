@@ -12,4 +12,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Yolo!
+Yolo! It's on
